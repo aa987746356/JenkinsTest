@@ -12,7 +12,7 @@ public class Hello {
 
     @GetMapping("hello")
     public String hello(){
-        return "hello!";
+        return "hello!? what? change OK";
     }
 
 }
